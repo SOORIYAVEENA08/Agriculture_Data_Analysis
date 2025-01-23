@@ -21,14 +21,14 @@ Insights and Outcomes
 
 This project aims to provide a detailed analysis of India's agricultural performance, including:
 
-. Key sectors driving growth in agriculture.
-. Historical production trends and patterns.
-. Identification of potential growth areas and recommendations for stakeholders.
+* Key sectors driving growth in agriculture.
+* Historical production trends and patterns.
+* Identification of potential growth areas and recommendations for stakeholders.
 
 Future Scope
 
 The analysis could be extended to:
 
-. Forecast future production trends using predictive modeling.
-. Explore the impact of policy changes on agricultural productivity.
-. Integrate additional datasets for climate and soil analysis.
+* Forecast future production trends using predictive modeling.
+* Explore the impact of policy changes on agricultural productivity.
+* Integrate additional datasets for climate and soil analysis.
